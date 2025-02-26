@@ -10,5 +10,5 @@ Grupo seleccionados
 - 12-3 *WEB*
 
 Imagen añadida desde la casa
-![rosita](imagen de rosita.jpg)
+![rosita](imagen/rosita.jpg)
 
